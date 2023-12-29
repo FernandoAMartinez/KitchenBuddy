@@ -1,0 +1,184 @@
+[
+    {
+        "recipeId": 1,
+        "name": "Ensalada César",
+        "ingredients": [
+            {
+                "name": "Lechuga romana",
+                "quantity": "1 cabeza"
+            },
+            {
+                "name": "Pollo a la parrilla",
+                "quantity": "1 pechuga"
+            },
+            {
+                "name": "Queso parmesano",
+                "quantity": "1/2 taza"
+            },
+            {
+                "name": "Pan tostado",
+                "quantity": "2 rebanadas"
+            },
+            {
+                "name": "Aderezo César",
+                "quantity": "3 cucharadas"
+            }
+        ],
+        "steps": [
+            "Lavar y cortar la lechuga romana.",
+            "Cocinar el pollo a la parrilla y cortarlo en tiras.",
+            "Rallar el queso parmesano.",
+            "Cortar el pan en cubos y tostarlo.",
+            "Mezclar la lechuga, el pollo, el queso y el pan tostado.",
+            "Agregar el aderezo César y mezclar bien."
+        ],
+        "time": 25,
+        "dificulty": "Fácil",
+        "origin": "Internacional"
+    },
+    {
+        "recipeId": 2,
+        "name": "Sopa de Tomate",
+        "ingredients": [
+            {
+                "name": "Tomates",
+                "quantity": "6 unidades"
+            },
+            {
+                "name": "Cebolla",
+                "quantity": "1 unidad"
+            },
+            {
+                "name": "Ajo",
+                "quantity": "2 dientes"
+            },
+            {
+                "name": "Caldo de verduras",
+                "quantity": "4 tazas"
+            },
+            {
+                "name": "Albahaca fresca",
+                "quantity": "1/4 taza"
+            }
+        ],
+        "steps": [
+            "Picar los tomates, la cebolla y el ajo.",
+            "Sofreír la cebolla y el ajo en una olla.",
+            "Agregar los tomates y cocinar hasta que estén blandos.",
+            "Añadir el caldo de verduras y la albahaca fresca.",
+            "Cocinar a fuego lento durante 20 minutos.",
+            "Licuar la sopa hasta obtener una textura suave."
+        ],
+        "time": 30,
+        "dificulty": "Moderada",
+        "origin": "Mediterránea"
+    },
+    {
+        "recipeId": 3,
+        "name": "Tacos de Pescado",
+        "ingredients": [
+            {
+                "name": "Filetes de pescado blanco",
+                "quantity": "500g"
+            },
+            {
+                "name": "Harina de maíz",
+                "quantity": "1 taza"
+            },
+            {
+                "name": "Repollo morado",
+                "quantity": "1 taza"
+            },
+            {
+                "name": "Salsa de yogur",
+                "quantity": "1/2 taza"
+            },
+            {
+                "name": "Limones",
+                "quantity": "2 unidades"
+            }
+        ],
+        "steps": [
+            "Sazonar los filetes de pescado con sal y pimienta.",
+            "Rebozar los filetes en harina de maíz y freír hasta que estén dorados.",
+            "Picar finamente el repollo morado.",
+            "Mezclar el repollo con la salsa de yogur.",
+            "Calentar las tortillas y armar los tacos con el pescado, el repollo y limón."
+        ],
+        "time": 40,
+        "dificulty": "Media",
+        "origin": "Mexicana"
+    },
+    {
+        "recipeId": 4,
+        "name": "Risotto de Champiñones",
+        "ingredients": [
+            {
+                "name": "Arroz Arborio",
+                "quantity": "1 taza"
+            },
+            {
+                "name": "Champiñones",
+                "quantity": "200g"
+            },
+            {
+                "name": "Cebolla",
+                "quantity": "1 unidad"
+            },
+            {
+                "name": "Vino blanco",
+                "quantity": "1/2 taza"
+            },
+            {
+                "name": "Caldo de pollo",
+                "quantity": "4 tazas"
+            }
+        ],
+        "steps": [
+            "Picar la cebolla y los champiñones.",
+            "Sofreír la cebolla en una sartén.",
+            "Agregar los champiñones y cocinar hasta que estén dorados.",
+            "Añadir el arroz y cocinar hasta que esté translúcido.",
+            "Verter el vino blanco y dejar que se evapore.",
+            "Agregar el caldo de pollo gradualmente hasta que el arroz esté cremoso."
+        ],
+        "time": 35,
+        "dificulty": "Media",
+        "origin": "Italiana"
+    },
+    {
+        "recipeId": 5,
+        "name": "Pollo a la Mostaza",
+        "ingredients": [
+            {
+                "name": "Pechugas de pollo",
+                "quantity": "4 unidades"
+            },
+            {
+                "name": "Mostaza Dijon",
+                "quantity": "3 cucharadas"
+            },
+            {
+                "name": "Miel",
+                "quantity": "2 cucharadas"
+            },
+            {
+                "name": "Ajo picado",
+                "quantity": "2 dientes"
+            },
+            {
+                "name": "Romero fresco",
+                "quantity": "1 cucharada"
+            }
+        ],
+        "steps": [
+            "Precalentar el horno a 200°C.",
+            "En un tazón, mezclar la mostaza, la miel, el ajo y el romero.",
+            "Sazonar las pechugas de pollo y cubrirlas con la mezcla de mostaza.",
+            "Hornear durante 25-30 minutos o hasta que estén doradas y cocidas."
+        ],
+        "time": 35,
+        "dificulty": "Fácil",
+        "origin": "Internacional"
+    }
+]
